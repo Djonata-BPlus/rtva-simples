@@ -9,7 +9,7 @@ import pygame
 
 
 client = Groq(
-    api_key= "Busque no .env.production"
+    api_key= "Busque no .env.production hehe"
 )
 
 MODEL_STT = "whisper-large-v3" #modelo da groq para fazer o STT
